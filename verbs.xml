@@ -1,0 +1,1179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<verbs>
+  <verb>
+    <key>gitmek</key>
+    <value>Gitmek</value>
+  </verb>
+  <verb>
+    <key>gelmek</key>
+    <value>Gelmek</value>
+  </verb>
+  <verb>
+    <key>koşmak</key>
+    <value>Koşmak</value>
+  </verb>
+  <verb>
+    <key>yapmak</key>
+    <value>Yapmak</value>
+  </verb>
+  <verb>
+    <key>şaka-yapmak</key>
+    <value>şaka yapmak</value>
+  </verb>
+  <verb>
+    <key>doğmak</key>
+    <value>doğmak</value>
+  </verb>
+  <verb>
+    <key>ilgi-duymak</key>
+    <value>ilgi duymak</value>
+  </verb>
+  <verb>
+    <key>başlamak</key>
+    <value>başlamak</value>
+  </verb>
+  <verb>
+    <key>olmak</key>
+    <value>olmak</value>
+  </verb>
+  <verb>
+    <key>mezun-olmak</key>
+    <value>mezun olmak</value>
+  </verb>
+  <verb>
+    <key>öğrenmek</key>
+    <value>öğrenmek</value>
+  </verb>
+  <verb>
+    <key>öğretmek</key>
+    <value>öğretmek</value>
+  </verb>
+  <verb>
+    <key>oynamaya-başlamak</key>
+    <value>oynamaya başlamak</value>
+  </verb>
+  <verb>
+    <key>rejim-yapmak</key>
+    <value>rejim yapmak</value>
+  </verb>
+  <verb>
+    <key>nişanlanmak</key>
+    <value>nişanlanmak</value>
+  </verb>
+  <verb>
+    <key>evlenmek</key>
+    <value>evlenmek</value>
+  </verb>
+  <verb>
+    <key>yaşamak</key>
+    <value>yaşamak</value>
+  </verb>
+  <verb>
+    <key>almak</key>
+    <value>almak</value>
+  </verb>
+  <verb>
+    <key>gfhgf</key>
+    <value>gfhgf</value>
+  </verb>
+  <verb>
+    <key>başarılı-olmak</key>
+    <value>başarılı olmak</value>
+  </verb>
+  <verb>
+    <key>çalışmak</key>
+    <value>çalışmak</value>
+  </verb>
+  <verb>
+    <key>tanışmak</key>
+    <value>tanışmak</value>
+  </verb>
+  <verb>
+    <key>taşınmak</key>
+    <value>taşınmak</value>
+  </verb>
+  <verb>
+    <key>spor-yapmak</key>
+    <value>spor yapmak</value>
+  </verb>
+  <verb>
+    <key>reform-yapmak</key>
+    <value>reform yapmak</value>
+  </verb>
+  <verb>
+    <key>oy-vermek</key>
+    <value>oy vermek</value>
+  </verb>
+  <verb>
+    <key>kaldırmak</key>
+    <value>kaldırmak</value>
+  </verb>
+  <verb>
+    <key>benimsemek</key>
+    <value>benimsemek</value>
+  </verb>
+  <verb>
+    <key>evlat-edinmek</key>
+    <value>evlat edinmek</value>
+  </verb>
+  <verb>
+    <key>öldürmek</key>
+    <value>öldürmek</value>
+  </verb>
+  <verb>
+    <key>ölmek</key>
+    <value>ölmek</value>
+  </verb>
+  <verb>
+    <key>hoşlanmak</key>
+    <value>hoşlanmak</value>
+  </verb>
+  <verb>
+    <key>inanmak</key>
+    <value>inanmak</value>
+  </verb>
+  <verb>
+    <key>isim-vermek</key>
+    <value>isim vermek</value>
+  </verb>
+  <verb>
+    <key>katılmak</key>
+    <value>katılmak</value>
+  </verb>
+  <verb>
+    <key>ilgilenmek</key>
+    <value>ilgilenmek</value>
+  </verb>
+  <verb>
+    <key>götürmek</key>
+    <value>götürmek</value>
+  </verb>
+  <verb>
+    <key>tanıştırmak</key>
+    <value>tanıştırmak</value>
+  </verb>
+  <verb>
+    <key>hasta-olmak</key>
+    <value>hasta olmak</value>
+  </verb>
+  <verb>
+    <key>dahil-etmek</key>
+    <value>dahil etmek</value>
+  </verb>
+  <verb>
+    <key>seçmek</key>
+    <value>seçmek</value>
+  </verb>
+  <verb>
+    <key>uyumak</key>
+    <value>uyumak</value>
+  </verb>
+  <verb>
+    <key>çizmek</key>
+    <value>çizmek</value>
+  </verb>
+  <verb>
+    <key>tutturmak</key>
+    <value>tutturmak</value>
+  </verb>
+  <verb>
+    <key>koymak</key>
+    <value>koymak</value>
+  </verb>
+  <verb>
+    <key>kurumak</key>
+    <value>kurumak</value>
+  </verb>
+  <verb>
+    <key>giymek</key>
+    <value>giymek</value>
+  </verb>
+  <verb>
+    <key>taşımak</key>
+    <value>taşımak</value>
+  </verb>
+  <verb>
+    <key>hakkında-konuşmak</key>
+    <value>hakkında konuşmak</value>
+  </verb>
+  <verb>
+    <key>hazırlanmak</key>
+    <value>hazırlanmak</value>
+  </verb>
+  <verb>
+    <key>yıkamak</key>
+    <value>yıkamak</value>
+  </verb>
+  <verb>
+    <key>zaman-geçirmek</key>
+    <value>zaman geçirmek</value>
+  </verb>
+  <verb>
+    <key>bulmak</key>
+    <value>bulmak</value>
+  </verb>
+  <verb>
+    <key>kalmak</key>
+    <value>kalmak</value>
+  </verb>
+  <verb>
+    <key>ders-çalışmak</key>
+    <value>ders çalışmak</value>
+  </verb>
+  <verb>
+    <key>karar-vermek</key>
+    <value>karar vermek</value>
+  </verb>
+  <verb>
+    <key>emin-olmak</key>
+    <value>emin olmak</value>
+  </verb>
+  <verb>
+    <key>bakmak</key>
+    <value>bakmak</value>
+  </verb>
+  <verb>
+    <key>durdurmak</key>
+    <value>durdurmak</value>
+  </verb>
+  <verb>
+    <key>nazik-davranmak</key>
+    <value>nazik davranmak</value>
+  </verb>
+  <verb>
+    <key>sipariş-vermek</key>
+    <value>sipariş vermek</value>
+  </verb>
+  <verb>
+    <key>sanmak</key>
+    <value>sanmak</value>
+  </verb>
+  <verb>
+    <key>sıkılmak</key>
+    <value>sıkılmak</value>
+  </verb>
+  <verb>
+    <key>ayrılmak</key>
+    <value>ayrılmak</value>
+  </verb>
+  <verb>
+    <key>tutmak</key>
+    <value>tutmak</value>
+  </verb>
+  <verb>
+    <key>form-doldurmak</key>
+    <value>form doldurmak</value>
+  </verb>
+  <verb>
+    <key>sürmek</key>
+    <value>sürmek</value>
+  </verb>
+  <verb>
+    <key>istemek</key>
+    <value>istemek</value>
+  </verb>
+  <verb>
+    <key>geri-vermek</key>
+    <value>geri vermek</value>
+  </verb>
+  <verb>
+    <key>demek</key>
+    <value>demek</value>
+  </verb>
+  <verb>
+    <key>aramak</key>
+    <value>aramak</value>
+  </verb>
+  <verb>
+    <key>bırakmak</key>
+    <value>bırakmak</value>
+  </verb>
+  <verb>
+    <key>yazmak</key>
+    <value>yazmak</value>
+  </verb>
+  <verb>
+    <key>yemek-yemek</key>
+    <value>yemek yemek</value>
+  </verb>
+  <verb>
+    <key>rol-almak</key>
+    <value>rol almak</value>
+  </verb>
+  <verb>
+    <key>televizyon-izlemek</key>
+    <value>televizyon izlemek</value>
+  </verb>
+  <verb>
+    <key>beklemek</key>
+    <value>beklemek</value>
+  </verb>
+  <verb>
+    <key>ummak</key>
+    <value>ummak</value>
+  </verb>
+  <verb>
+    <key>hatırlamak</key>
+    <value>hatırlamak</value>
+  </verb>
+  <verb>
+    <key>emekli-olmak</key>
+    <value>emekli olmak</value>
+  </verb>
+  <verb>
+    <key>çürümek</key>
+    <value>çürümek</value>
+  </verb>
+  <verb>
+    <key>duş-almak</key>
+    <value>duş almak</value>
+  </verb>
+  <verb>
+    <key>çöp-çıkarmak</key>
+    <value>çöp çıkarmak</value>
+  </verb>
+  <verb>
+    <key>köpek-gezdirmek</key>
+    <value>köpek gezdirmek</value>
+  </verb>
+  <verb>
+    <key>yorulmak</key>
+    <value>yorulmak</value>
+  </verb>
+  <verb>
+    <key>iş-yapmak</key>
+    <value>iş yapmak</value>
+  </verb>
+  <verb>
+    <key>flüt-çalmak</key>
+    <value>flüt çalmak</value>
+  </verb>
+  <verb>
+    <key>diş-fırçalamak</key>
+    <value>diş fırçalamak</value>
+  </verb>
+  <verb>
+    <key>temizlemek</key>
+    <value>temizlemek</value>
+  </verb>
+  <verb>
+    <key>konuşmak</key>
+    <value>konuşmak</value>
+  </verb>
+  <verb>
+    <key>kalkmak</key>
+    <value>kalkmak</value>
+  </verb>
+  <verb>
+    <key>kahvaltı-yapmak</key>
+    <value>kahvaltı yapmak</value>
+  </verb>
+  <verb>
+    <key>unutmak</key>
+    <value>unutmak</value>
+  </verb>
+  <verb>
+    <key>göstermek</key>
+    <value>göstermek</value>
+  </verb>
+  <verb>
+    <key>geri-dönmek</key>
+    <value>geri dönmek</value>
+  </verb>
+  <verb>
+    <key>şarkı-söylemek</key>
+    <value>şarkı söylemek</value>
+  </verb>
+  <verb>
+    <key>ödül-kazanmak</key>
+    <value>ödül kazanmak</value>
+  </verb>
+  <verb>
+    <key>sevmek</key>
+    <value>sevmek</value>
+  </verb>
+  <verb>
+    <key>giyinmek</key>
+    <value>giyinmek</value>
+  </verb>
+  <verb>
+    <key>çabuk-olmak</key>
+    <value>çabuk olmak</value>
+  </verb>
+  <verb>
+    <key>anlamak</key>
+    <value>anlamak</value>
+  </verb>
+  <verb>
+    <key>bilmek</key>
+    <value>bilmek</value>
+  </verb>
+  <verb>
+    <key>geç-kalmak</key>
+    <value>geç kalmak</value>
+  </verb>
+  <verb>
+    <key>ödemek</key>
+    <value>ödemek</value>
+  </verb>
+  <verb>
+    <key>iyi-davranmak</key>
+    <value>iyi davranmak</value>
+  </verb>
+  <verb>
+    <key>durmak</key>
+    <value>durmak</value>
+  </verb>
+  <verb>
+    <key>vermek</key>
+    <value>vermek</value>
+  </verb>
+  <verb>
+    <key>söylemek</key>
+    <value>söylemek</value>
+  </verb>
+  <verb>
+    <key>haber-vermek</key>
+    <value>haber vermek</value>
+  </verb>
+  <verb>
+    <key>bildirmek</key>
+    <value>bildirmek</value>
+  </verb>
+  <verb>
+    <key>evde-kalmak</key>
+    <value>evde kalmak</value>
+  </verb>
+  <verb>
+    <key>içmek</key>
+    <value>içmek</value>
+  </verb>
+  <verb>
+    <key>nefret-etmek</key>
+    <value>nefret etmek</value>
+  </verb>
+  <verb>
+    <key>sigara-içmek</key>
+    <value>sigara içmek</value>
+  </verb>
+  <verb>
+    <key>sormak</key>
+    <value>sormak</value>
+  </verb>
+  <verb>
+    <key>haram-olmak</key>
+    <value>haram olmak</value>
+  </verb>
+  <verb>
+    <key>üşümek</key>
+    <value>üşümek</value>
+  </verb>
+  <verb>
+    <key>sıcaklamak</key>
+    <value>sıcaklamak</value>
+  </verb>
+  <verb>
+    <key>görmek</key>
+    <value>görmek</value>
+  </verb>
+  <verb>
+    <key>dilemek</key>
+    <value>dilemek</value>
+  </verb>
+  <verb>
+    <key>kayıt-yaptırmak</key>
+    <value>kayıt yaptırmak</value>
+  </verb>
+  <verb>
+    <key>özür-dilerim</key>
+    <value>özür dilerim</value>
+  </verb>
+  <verb>
+    <key>imzalamak</key>
+    <value>imzalamak</value>
+  </verb>
+  <verb>
+    <key>binmek</key>
+    <value>binmek</value>
+  </verb>
+  <verb>
+    <key>buluşmak</key>
+    <value>buluşmak</value>
+  </verb>
+  <verb>
+    <key>rica-etmek</key>
+    <value>rica etmek</value>
+  </verb>
+  <verb>
+    <key>yardım-etmek</key>
+    <value>yardım etmek</value>
+  </verb>
+  <verb>
+    <key>görüşmek</key>
+    <value>görüşmek</value>
+  </verb>
+  <verb>
+    <key>teşekkür-etmek</key>
+    <value>teşekkür etmek</value>
+  </verb>
+  <verb>
+    <key>yürümek</key>
+    <value>yürümek</value>
+  </verb>
+  <verb>
+    <key>uyanmak</key>
+    <value>uyanmak</value>
+  </verb>
+  <verb>
+    <key>kahvaltı-etmek</key>
+    <value>kahvaltı etmek</value>
+  </verb>
+  <verb>
+    <key>yüzmek</key>
+    <value>yüzmek</value>
+  </verb>
+  <verb>
+    <key>geri-götürmek</key>
+    <value>geri götürmek</value>
+  </verb>
+  <verb>
+    <key>futbol-oynamak</key>
+    <value>futbol oynamak</value>
+  </verb>
+  <verb>
+    <key>yelken-yapmak</key>
+    <value>yelken yapmak</value>
+  </verb>
+  <verb>
+    <key>alışveriş-yapmak</key>
+    <value>alışveriş yapmak</value>
+  </verb>
+  <verb>
+    <key>sipariş-almak</key>
+    <value>sipariş almak</value>
+  </verb>
+  <verb>
+    <key>pratik-yapmak</key>
+    <value>pratik yapmak</value>
+  </verb>
+  <verb>
+    <key>antreman-yapmak</key>
+    <value>antreman yapmak</value>
+  </verb>
+  <verb>
+    <key>bitirmek</key>
+    <value>bitirmek</value>
+  </verb>
+  <verb>
+    <key>telefon-etmek</key>
+    <value>telefon etmek</value>
+  </verb>
+  <verb>
+    <key>para-vermek</key>
+    <value>para vermek</value>
+  </verb>
+  <verb>
+    <key>temiz-olmak</key>
+    <value>temiz olmak</value>
+  </verb>
+  <verb>
+    <key>gözlük-takmak</key>
+    <value>gözlük takmak</value>
+  </verb>
+  <verb>
+    <key>aldırmak</key>
+    <value>aldırmak</value>
+  </verb>
+  <verb>
+    <key>çalınmak</key>
+    <value>çalınmak</value>
+  </verb>
+  <verb>
+    <key>çıkmak</key>
+    <value>çıkmak</value>
+  </verb>
+  <verb>
+    <key>erken-çıkmak</key>
+    <value>erken çıkmak</value>
+  </verb>
+  <verb>
+    <key>okumak</key>
+    <value>okumak</value>
+  </verb>
+  <verb>
+    <key>açmak</key>
+    <value>açmak</value>
+  </verb>
+  <verb>
+    <key>hissetmek</key>
+    <value>hissetmek</value>
+  </verb>
+  <verb>
+    <key>kural-koymak</key>
+    <value>kural koymak</value>
+  </verb>
+  <verb>
+    <key>güvenmek</key>
+    <value>güvenmek</value>
+  </verb>
+  <verb>
+    <key>uzlaşmak</key>
+    <value>uzlaşmak</value>
+  </verb>
+  <verb>
+    <key>satmak</key>
+    <value>satmak</value>
+  </verb>
+  <verb>
+    <key>çalmak</key>
+    <value>çalmak</value>
+  </verb>
+  <verb>
+    <key>çaldırmak</key>
+    <value>çaldırmak</value>
+  </verb>
+  <verb>
+    <key>etkilenmek</key>
+    <value>etkilenmek</value>
+  </verb>
+  <verb>
+    <key>ilaç-yazmak</key>
+    <value>ilaç yazmak</value>
+  </verb>
+  <verb>
+    <key>kaybetmek</key>
+    <value>kaybetmek</value>
+  </verb>
+  <verb>
+    <key>dönmek</key>
+    <value>dönmek</value>
+  </verb>
+  <verb>
+    <key>hesap-ödemek</key>
+    <value>hesap ödemek</value>
+  </verb>
+  <verb>
+    <key>kazanmak</key>
+    <value>kazanmak</value>
+  </verb>
+  <verb>
+    <key>oturmak</key>
+    <value>oturmak</value>
+  </verb>
+  <verb>
+    <key>kızmak</key>
+    <value>kızmak</value>
+  </verb>
+  <verb>
+    <key>geçmek</key>
+    <value>geçmek</value>
+  </verb>
+  <verb>
+    <key>oynamak</key>
+    <value>oynamak</value>
+  </verb>
+  <verb>
+    <key>tatil-yapmak</key>
+    <value>tatil yapmak</value>
+  </verb>
+  <verb>
+    <key>para-biriktirmek</key>
+    <value>para biriktirmek</value>
+  </verb>
+  <verb>
+    <key>yolculuk-yapmak</key>
+    <value>yolculuk yapmak</value>
+  </verb>
+  <verb>
+    <key>devam-etmek</key>
+    <value>devam etmek</value>
+  </verb>
+  <verb>
+    <key>kilo-vermek</key>
+    <value>kilo vermek</value>
+  </verb>
+  <verb>
+    <key>boşanmak</key>
+    <value>boşanmak</value>
+  </verb>
+  <verb>
+    <key>anmak</key>
+    <value>anmak</value>
+  </verb>
+  <verb>
+    <key>bitmek</key>
+    <value>bitmek</value>
+  </verb>
+  <verb>
+    <key>seçilmek</key>
+    <value>seçilmek</value>
+  </verb>
+  <verb>
+    <key>istifa-etmek</key>
+    <value>istifa etmek</value>
+  </verb>
+  <verb>
+    <key>araba-kullanmak</key>
+    <value>araba kullanmak</value>
+  </verb>
+  <verb>
+    <key>varmak</key>
+    <value>varmak</value>
+  </verb>
+  <verb>
+    <key>gülmek</key>
+    <value>gülmek</value>
+  </verb>
+  <verb>
+    <key>resim-yapmak</key>
+    <value>resim yapmak</value>
+  </verb>
+  <verb>
+    <key>düşünmek</key>
+    <value>düşünmek</value>
+  </verb>
+  <verb>
+    <key>korkmak</key>
+    <value>korkmak</value>
+  </verb>
+  <verb>
+    <key>diz-çökmek</key>
+    <value>diz çökmek</value>
+  </verb>
+  <verb>
+    <key>artmak</key>
+    <value>artmak</value>
+  </verb>
+  <verb>
+    <key>ağlamak</key>
+    <value>ağlamak</value>
+  </verb>
+  <verb>
+    <key>yalvarmak</key>
+    <value>yalvarmak</value>
+  </verb>
+  <verb>
+    <key>rahat-etmek</key>
+    <value>rahat etmek</value>
+  </verb>
+  <verb>
+    <key>dinlenmek</key>
+    <value>dinlenmek</value>
+  </verb>
+  <verb>
+    <key>bisiklet-kullanmak</key>
+    <value>bisiklet kullanmak</value>
+  </verb>
+  <verb>
+    <key>önlemek</key>
+    <value>önlemek</value>
+  </verb>
+  <verb>
+    <key>gezdirmek</key>
+    <value>gezdirmek</value>
+  </verb>
+  <verb>
+    <key>yıkanmak</key>
+    <value>yıkanmak</value>
+  </verb>
+  <verb>
+    <key>anlatmak</key>
+    <value>anlatmak</value>
+  </verb>
+  <verb>
+    <key>kapatmak</key>
+    <value>kapatmak</value>
+  </verb>
+  <verb>
+    <key>seyretmek</key>
+    <value>seyretmek</value>
+  </verb>
+  <verb>
+    <key>yorgun-olmak</key>
+    <value>yorgun olmak</value>
+  </verb>
+  <verb>
+    <key>top-oynamak</key>
+    <value>top oynamak</value>
+  </verb>
+  <verb>
+    <key>güneşlenmek</key>
+    <value>güneşlenmek</value>
+  </verb>
+  <verb>
+    <key>Verarı-sokması</key>
+    <value>arı sokması</value>
+  </verb>
+  <verb>
+    <key>Veracımak</key>
+    <value>acımak</value>
+  </verb>
+  <verb>
+    <key>Verdoldurmak</key>
+    <value>doldurmak</value>
+  </verb>
+  <verb>
+    <key>Verrandevu-almak</key>
+    <value>randevu almak</value>
+  </verb>
+  <verb>
+    <key>Veriyi-olmak</key>
+    <value>iyi olmak</value>
+  </verb>
+  <verb>
+    <key>Verağırmak</key>
+    <value>ağırmak</value>
+  </verb>
+  <verb>
+    <key>Veryardım-çağırmak</key>
+    <value>yardım çağırmak</value>
+  </verb>
+  <verb>
+    <key>Vertoplamak</key>
+    <value>toplamak</value>
+  </verb>
+  <verb>
+    <key>Veracele-etmek</key>
+    <value>acele etmek</value>
+  </verb>
+  <verb>
+    <key>Vergitar-çalmak</key>
+    <value>gitar çalmak</value>
+  </verb>
+  <verb>
+    <key>Vernakış-yapmak</key>
+    <value>nakış yapmak</value>
+  </verb>
+  <verb>
+    <key>Versulamak</key>
+    <value>sulamak</value>
+  </verb>
+  <verb>
+    <key>Veratmak</key>
+    <value>atmak</value>
+  </verb>
+  <verb>
+    <key>Veraç-olmak</key>
+    <value>aç olmak</value>
+  </verb>
+  <verb>
+    <key>Vertırmanmak</key>
+    <value>tırmanmak</value>
+  </verb>
+  <verb>
+    <key>Vergetirmek</key>
+    <value>getirmek</value>
+  </verb>
+  <verb>
+    <key>Vermakyaj-yapmak</key>
+    <value>makyaj yapmak</value>
+  </verb>
+  <verb>
+    <key>Verboyamak</key>
+    <value>boyamak</value>
+  </verb>
+  <verb>
+    <key>Verrüya-görmek</key>
+    <value>rüya görmek</value>
+  </verb>
+  <verb>
+    <key>Veryemeğe-çıkmak</key>
+    <value>yemeğe çıkmak</value>
+  </verb>
+  <verb>
+    <key>Verbeğenmek</key>
+    <value>beğenmek</value>
+  </verb>
+  <verb>
+    <key>Verfırçalamak</key>
+    <value>fırçalamak</value>
+  </verb>
+  <verb>
+    <key>Vergolf-oynamak</key>
+    <value>golf oynamak</value>
+  </verb>
+  <verb>
+    <key>Vermerak-etmek</key>
+    <value>merak etmek</value>
+  </verb>
+  <verb>
+    <key>Vertakip-etmek</key>
+    <value>takip etmek</value>
+  </verb>
+  <verb>
+    <key>Veraşık-olmak</key>
+    <value>aşık olmak</value>
+  </verb>
+  <verb>
+    <key>Verotobüs-beklemek</key>
+    <value>otobüs beklemek</value>
+  </verb>
+  <verb>
+    <key>Versarhoş-olmak</key>
+    <value>sarhoş olmak</value>
+  </verb>
+  <verb>
+    <key>Versohbet-etmek</key>
+    <value>sohbet etmek</value>
+  </verb>
+  <verb>
+    <key>Veryemek-pişirmek</key>
+    <value>yemek pişirmek</value>
+  </verb>
+  <verb>
+    <key>Veryürüyüş-yapmak</key>
+    <value>yürüyüş yapmak</value>
+  </verb>
+  <verb>
+    <key>Versaymak</key>
+    <value>saymak</value>
+  </verb>
+  <verb>
+    <key>Veruğramak</key>
+    <value>uğramak</value>
+  </verb>
+  <verb>
+    <key>Veriptal-etmek</key>
+    <value>iptal etmek</value>
+  </verb>
+  <verb>
+    <key>Verüzülmek</key>
+    <value>üzülmek</value>
+  </verb>
+  <verb>
+    <key>Verözlemek</key>
+    <value>özlemek</value>
+  </verb>
+  <verb>
+    <key>Veriyimser-olmak</key>
+    <value>iyimser olmak</value>
+  </verb>
+  <verb>
+    <key>Verhareketli-olmak</key>
+    <value>hareketli olmak</value>
+  </verb>
+  <verb>
+    <key>Versabırlı-olmak</key>
+    <value>sabırlı olmak</value>
+  </verb>
+  <verb>
+    <key>Verhoş-gelmek</key>
+    <value>hoş gelmek</value>
+  </verb>
+  <verb>
+    <key>Verhoş-bulmak</key>
+    <value>hoş bulmak</value>
+  </verb>
+  <verb>
+    <key>Verservis-yapmak</key>
+    <value>servis yapmak</value>
+  </verb>
+  <verb>
+    <key>Veruğraşmak</key>
+    <value>uğraşmak</value>
+  </verb>
+  <verb>
+    <key>Verilginç-bulmak</key>
+    <value>ilginç bulmak</value>
+  </verb>
+  <verb>
+    <key>Veryemek-yapmak</key>
+    <value>yemek yapmak</value>
+  </verb>
+  <verb>
+    <key>Verişe-gitmek</key>
+    <value>işe gitmek</value>
+  </verb>
+  <verb>
+    <key>Veryatmak</key>
+    <value>yatmak</value>
+  </verb>
+  <verb>
+    <key>Verziyaret-etmek</key>
+    <value>ziyaret etmek</value>
+  </verb>
+  <verb>
+    <key>Verdinlemek</key>
+    <value>dinlemek</value>
+  </verb>
+  <verb>
+    <key>Verhazırlamak</key>
+    <value>hazırlamak</value>
+  </verb>
+  <verb>
+    <key>Verkontrol-etmek</key>
+    <value>kontrol etmek</value>
+  </verb>
+  <verb>
+    <key>Verkullanmak</key>
+    <value>kullanmak</value>
+  </verb>
+  <verb>
+    <key>Vertaramak</key>
+    <value>taramak</value>
+  </verb>
+  <verb>
+    <key>Verbanyo-yapmak</key>
+    <value>banyo yapmak</value>
+  </verb>
+  <verb>
+    <key>Vertemizlik-yapmak</key>
+    <value>temizlik yapmak</value>
+  </verb>
+  <verb>
+    <key>Verhazırlık-yapmak</key>
+    <value>hazırlık yapmak</value>
+  </verb>
+  <verb>
+    <key>Vermüzik-dinlemek</key>
+    <value>müzik dinlemek</value>
+  </verb>
+  <verb>
+    <key>Vergecikmek</key>
+    <value>gecikmek</value>
+  </verb>
+  <verb>
+    <key>Verişe-yaramak</key>
+    <value>işe yaramak</value>
+  </verb>
+  <verb>
+    <key>Vergöndermek</key>
+    <value>göndermek</value>
+  </verb>
+  <verb>
+    <key>Verdeğiştirdim</key>
+    <value>değiştirdim</value>
+  </verb>
+  <verb>
+    <key>Vertercih-etmek</key>
+    <value>tercih etmek</value>
+  </verb>
+  <verb>
+    <key>Verinmek</key>
+    <value>inmek</value>
+  </verb>
+  <verb>
+    <key>Verhorlamak</key>
+    <value>horlamak</value>
+  </verb>
+  <verb>
+    <key>Vertraş-olmak</key>
+    <value>traş olmak</value>
+  </verb>
+  <verb>
+    <key>Veryatak-yapmak</key>
+    <value>yatak yapmak</value>
+  </verb>
+  <verb>
+    <key>Vergirmek</key>
+    <value>girmek</value>
+  </verb>
+  <verb>
+    <key>Vergezmek</key>
+    <value>gezmek</value>
+  </verb>
+  <verb>
+    <key>Verdans-etmek</key>
+    <value>dans etmek</value>
+  </verb>
+  <verb>
+    <key>Verseyahat-etmek</key>
+    <value>seyahat etmek</value>
+  </verb>
+  <verb>
+    <key>Verörmek</key>
+    <value>örmek</value>
+  </verb>
+  <verb>
+    <key>Verdavet-etmek</key>
+    <value>davet etmek</value>
+  </verb>
+  <verb>
+    <key>Verkek-yapmak</key>
+    <value>kek yapmak</value>
+  </verb>
+  <verb>
+    <key>Verizlemek</key>
+    <value>izlemek</value>
+  </verb>
+  <verb>
+    <key>Verhata-yapmak</key>
+    <value>hata yapmak</value>
+  </verb>
+  <verb>
+    <key>Verihtiyacı-olmak</key>
+    <value>ihtiyacı olmak</value>
+  </verb>
+  <verb>
+    <key>Verıslanmak</key>
+    <value>ıslanmak</value>
+  </verb>
+  <verb>
+    <key>Verdinmek</key>
+    <value>dinmek</value>
+  </verb>
+  <verb>
+    <key>Verkaybolmak</key>
+    <value>kaybolmak</value>
+  </verb>
+  <verb>
+    <key>Verzannetmek</key>
+    <value>zannetmek</value>
+  </verb>
+  <verb>
+    <key>Vertemin-etmek</key>
+    <value>temin etmek</value>
+  </verb>
+  <verb>
+    <key>Vergerekmek</key>
+    <value>gerekmek</value>
+  </verb>
+  <verb>
+    <key>Verağrımak</key>
+    <value>ağrımak</value>
+  </verb>
+  <verb>
+    <key>Verödev-yapmak</key>
+    <value>ödev yapmak</value>
+  </verb>
+  <verb>
+    <key>Verhareket-etmek</key>
+    <value>hareket etmek</value>
+  </verb>
+  <verb>
+    <key>Verçöp-atmak</key>
+    <value>çöp atmak</value>
+  </verb>
+  <verb>
+    <key>Verteslim-etmek</key>
+    <value>teslim etmek</value>
+  </verb>
+  <verb>
+    <key>Vermutlu-olmak</key>
+    <value>mutlu olmak</value>
+  </verb>
+  <verb>
+    <key>Versivrilmek</key>
+    <value>sivrilmek</value>
+  </verb>
+  <verb>
+    <key>Verdamlamak</key>
+    <value>damlamak</value>
+  </verb>
+  <verb>
+    <key>Vergörünmek</key>
+    <value>görünmek</value>
+  </verb>
+  <verb>
+    <key>Vereğlenmek</key>
+    <value>eğlenmek</value>
+  </verb>
+  <verb>
+    <key>Verkesmek</key>
+    <value>kesmek</value>
+  </verb>
+  <verb>
+    <key>Verkurulmak</key>
+    <value>kurulmak</value>
+  </verb>
+</verbs>

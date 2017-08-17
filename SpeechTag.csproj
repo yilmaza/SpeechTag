@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3F2D67B7-6ADB-464B-968B-0C78A5FBA428}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TurkishTag</RootNamespace>
+    <AssemblyName>TurkishTag</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAdjectiveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAdjectiveForm.Designer.cs">
+      <DependentUpon>AddAdjectiveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAdverbForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAdverbForm.Designer.cs">
+      <DependentUpon>AddAdverbForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDynamicItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDynamicItemForm.Designer.cs">
+      <DependentUpon>AddDynamicItemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNounForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNounForm.Designer.cs">
+      <DependentUpon>AddNounForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVerbForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVerbForm.Designer.cs">
+      <DependentUpon>AddVerbForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DynamicAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DynamicAnalysis.Designer.cs">
+      <DependentUpon>DynamicAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enums.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="MostUsedNounsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostUsedNounsForm.Designer.cs">
+      <DependentUpon>MostUsedNounsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultipleAnalysisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultipleAnalysisForm.Designer.cs">
+      <DependentUpon>MultipleAnalysisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultipleAnalysisWithoutCW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultipleAnalysisWithoutCW.Designer.cs">
+      <DependentUpon>MultipleAnalysisWithoutCW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultipleDocumentAnalysisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultipleDocumentAnalysisForm.Designer.cs">
+      <DependentUpon>MultipleDocumentAnalysisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SaveXmlform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveXmlform.Designer.cs">
+      <DependentUpon>SaveXmlform.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddAdjectiveForm.resx">
+      <DependentUpon>AddAdjectiveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAdverbForm.resx">
+      <DependentUpon>AddAdverbForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDynamicItemForm.resx">
+      <DependentUpon>AddDynamicItemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNounForm.resx">
+      <DependentUpon>AddNounForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVerbForm.resx">
+      <DependentUpon>AddVerbForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DynamicAnalysis.resx">
+      <DependentUpon>DynamicAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MostUsedNounsForm.resx">
+      <DependentUpon>MostUsedNounsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultipleAnalysisForm.resx">
+      <DependentUpon>MultipleAnalysisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultipleAnalysisWithoutCW.resx">
+      <DependentUpon>MultipleAnalysisWithoutCW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultipleDocumentAnalysisForm.resx">
+      <DependentUpon>MultipleDocumentAnalysisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveXmlform.resx">
+      <DependentUpon>SaveXmlform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open_6529.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_6530.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveFileDialogControl_703.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewManualTestMHTformat_8617.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GenerateAll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="verbs.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="nouns.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Strings_7959_16x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="adjectives.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="adverbs.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="particles.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="conjunctions.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="interjections.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

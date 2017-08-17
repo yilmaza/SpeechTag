@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<adjectives>
+  <adjective>
+    <key>Adjönce</key>
+    <value>önce</value>
+  </adjective>
+  <adjective>
+    <key>AdjSAYI-SIFATI</key>
+    <value>SAYI SIFATI</value>
+  </adjective>
+  <adjective>
+    <key>Adjbirkaç</key>
+    <value>birkaç</value>
+  </adjective>
+  <adjective>
+    <key>Adjyarım</key>
+    <value>yarım</value>
+  </adjective>
+  <adjective>
+    <key>Adjbuçuk</key>
+    <value>buçuk</value>
+  </adjective>
+  <adjective>
+    <key>Adjküçük</key>
+    <value>küçük</value>
+  </adjective>
+  <adjective>
+    <key>Adjbirinci</key>
+    <value>birinci</value>
+  </adjective>
+  <adjective>
+    <key>Adjerken</key>
+    <value>erken</value>
+  </adjective>
+  <adjective>
+    <key>Adjkolay</key>
+    <value>kolay</value>
+  </adjective>
+  <adjective>
+    <key>AdjDESCRIPTIVE-ADJECTIVES</key>
+    <value>DESCRIPTIVE ADJECTIVES</value>
+  </adjective>
+  <adjective>
+    <key>AdjINDEFINITE-ADJECTIVES</key>
+    <value>INDEFINITE ADJECTIVES</value>
+  </adjective>
+  <adjective>
+    <key>AdjNUMBER-ADJECTIVES</key>
+    <value>NUMBER ADJECTIVES</value>
+  </adjective>
+  <adjective>
+    <key>AdjBELİRTME-SIFATI</key>
+    <value>BELİRTME SIFATI</value>
+  </adjective>
+  <adjective>
+    <key>AdjBELGİSİZ-SIFAT</key>
+    <value>BELGİSİZ SIFAT</value>
+  </adjective>
+</adjectives>
